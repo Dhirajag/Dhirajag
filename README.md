@@ -1,4 +1,4 @@
-<img src="D:\BIKASH\IMAGE\bikash.jpg">
+<img src="file:///D:/BIKASH/IMAGE/bikash.jpg">
 <h1 align="center">Hi 👋, I'm Bikash Kumar Agrawal</h1>
 <h3 align="center">A passionat App Developer from India</h3>
 
