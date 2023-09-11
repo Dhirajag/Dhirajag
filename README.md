@@ -1,3 +1,4 @@
+<img src="bikash.jpg">
 <h1 align="center">Hi 👋, I'm Bikash Kumar Agrawal</h1>
 <h3 align="center">A passionat App Developer from India</h3>
 
