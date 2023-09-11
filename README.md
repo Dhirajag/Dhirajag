@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Stignography**
 
-- 🌱 I’m currently learning **BCA , Bootstrap , Python , Java**
+- 🌱 I’m currently learning ** , Bootstrap , Python , Java**
 
 - 👯 I’m looking to collaborate on **Social media**
 
