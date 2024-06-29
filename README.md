@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Bikash Kumar Agrawal</h1>
 <h3 align="center">A passionat App Developer from India</h3>
 
-- 🔭 I’m currently working on **Stignography**
+- 🔭 I’m currently working on **Libequ**
 
 - 🌱 I’m currently learning ** , Bootstrap , Python , Java**
 
